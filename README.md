@@ -34,7 +34,7 @@ This are the possible configuration options and the default values set by the mo
 
 ```javascript
 {
-  module: "MMM-HomeAssistant",
+  module: "MMM-HomeAssistant-Touch",
   position: "middle_center",
   config: {
     host: "http://127.0.0.1",
