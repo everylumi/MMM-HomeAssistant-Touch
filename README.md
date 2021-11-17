@@ -28,7 +28,7 @@ npm install
 This module requires the token key of the Home Assistant you want to access.
 
 
-## Config
+## Configuration
 
 This are the possible configuration options and the default values set by the module.
 
